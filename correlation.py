@@ -162,4 +162,7 @@ stats = cr.occurences(acti, contents)
 calculation = cr.calculate_statistics(stats)
 
 final_report = cr.give_interpretation(calculation)
+
 print(final_report)
+
+############################################# END OF MAIN #################################################
